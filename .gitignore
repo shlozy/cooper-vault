@@ -1,0 +1,37 @@
+# ---- Cooper Vault: user & database data (never commit real user data) ----
+data/
+*.db
+*.db.legacy_backup
+cooper_vault.db*
+
+# ---- Profile pictures (stored outside the repo, listed here as a safeguard) ----
+.cooper_vault/
+
+# ---- Generated exports produced by the app at runtime ----
+*_export_*.csv
+*_report_*.pdf
+*_report_*.xlsx
+cooper_*_backup_*.db
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+
+# ---- Virtual environments ----
+.venv/
+venv/
+env/
+.env
+
+# ---- IDE / editor ----
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# ---- Misc local/test artifacts ----
+*.log
+.pytest_cache/

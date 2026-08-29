@@ -1,0 +1,7 @@
+matplotlib>=3.7
+
+# Optional — the app degrades gracefully if these aren't installed
+# (the features that need them show an install hint instead of crashing):
+easyocr>=1.7        # Receipt Scanner (OCR text extraction from photographed receipts)
+reportlab>=4.0       # Reports -> Export as PDF
+openpyxl>=3.1        # Reports -> Export as Excel
