@@ -79,13 +79,26 @@ On first launch, the app creates the `data/` folder and an empty `data/users.db`
 
 ## Screenshots
 
-_Add screenshots here before publishing:_
+### 🔐 Login
+![Cooper Vault Login](assets/screenshots/login.jpeg)
 
-- `assets/screenshots/login.png`
-- `assets/screenshots/dashboard.png`
-- `assets/screenshots/expenses.png`
-- `assets/screenshots/reports.png`
-- `assets/screenshots/cooper-ai.png`
+### 🏠 Dashboard
+![Cooper Vault Dashboard](assets/screenshots/dashboard.jpeg)
+
+### 🎯 Savings Goals
+![Savings Goals](assets/screenshots/savings_goal.jpeg)
+
+### 📊 Reports
+![Reports](assets/screenshots/reports.jpeg)
+
+### 🧾 Receipt Scanner
+![Receipt Scanner](assets/screenshots/receipt_scanner.jpeg)
+
+### 📩 Message Reader
+![Message Reader](assets/screenshots/message_reader.jpeg)
+
+### ⏰ Reminders
+![Reminders](assets/screenshots/smart_remainders.jpeg)
 
 ## Future Scope
 
